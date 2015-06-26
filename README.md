@@ -6,6 +6,6 @@ Hi everyone, I took CS1020 at NUS School of Computing in AY2014/15 Sem 2, taught
 
 ##Disclaimer
 
-- My solutions are not perfect. You can definitely come up with something better!
+- My solutions are not perfect, as for some assignments, I failed to pass some of the hidden test cases. You can definitely come up with something better!
 - Try your best not to plaguarize and submit my solutions, if the lab questions are repeated :)
 - Released under the MIT License, so do take a look at it if you're not sure what it means
